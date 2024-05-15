@@ -1,4 +1,4 @@
-iserver {
+server {
     listen 80 default_server;
     listen [::]:80 default_server;
     server_name 35.175.64.198;
